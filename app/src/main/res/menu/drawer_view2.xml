@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/HR"
+            android:title="Human Resources" />
+        <item
+            android:id="@+id/mark"
+            android:title="Marketing"
+            />
+        <item
+            android:id="@+id/tech"
+
+            android:title="Technical" />
+        <item
+            android:id="@+id/fin"
+
+            android:title="Finance" />
+        <item
+            android:id="@+id/logout"
+
+            android:title="Logout" />
+
+    </group>
+
+</menu>

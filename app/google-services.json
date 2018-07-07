@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "832839172454",
+    "firebase_url": "https://ntcl-d2ad7.firebaseio.com",
+    "project_id": "ntcl-d2ad7",
+    "storage_bucket": "ntcl-d2ad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832839172454:android:206cb4b8f7e04641",
+        "android_client_info": {
+          "package_name": "com.example.nibhr.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832839172454-p5sb189cpf0s80rogchdkdol1recsfmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nibhr.myapplication",
+            "certificate_hash": "15a94f708cb28fea7b71f6335aa82717046f30d8"
+          }
+        },
+        {
+          "client_id": "832839172454-e5spkrni2susvd4bmvorb74egoqb1uoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTqL7BGAKjqeNmUha_Hsco8GkgpgKtmyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832839172454-e5spkrni2susvd4bmvorb74egoqb1uoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,562 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:2:1-99:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/e9dd60a72272a4a158c3924990fbc703/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/ff0e6ed40f815546d8f0f03881f5a5e9/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/bf1f746ff042a29520fa7dbe69811c41/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/e0f55e864adc75e39575c74d08d38c53/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:design:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9c3b045a8cddf2844ddd0bc1e32d3061/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f23fbae99ea949aa5add31226a223c41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/38e7940e47c7ec18c13042a9f051c352/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d3e5cf1c1388d53867d5fa4600ed7d82/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/78d774c671e8fda4550017e239a0ee4a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/67ad35e3a195099b790e4a2a7309f8d4/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/6187111c1884d579f6d4fea5ad234ded/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/596297cac4ad0a1e81949e1a0be84266/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5d2213959e2c5a051f9b100b1c333072/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/2291f72b156133945bade7cb656f593e/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/08306e866b385d62c68780c1fd60fea3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/ed1a43bbfb9bb62c1c2f2d63fb01fb85/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/606790628af552d3a3e4b42ab12e267a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/0f56aeb69ccb2f7b8c59f7feb33ff6a9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/bef75ab00d5cc291c7d3ce8f8faed8af/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/492a7009a3d5520df4d0af96f6d10d7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4a34a5bed2a3c1a93389120a250d355c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/93111341249918d30bca51cfb4060664/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/78f84774a5b33c09e4269983a23292db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9dbbb9e9b007bf54d8935e254eb95b90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3f44b459c94f95a758455d87d04a3c36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d5b47bd542a2f46b3a6d0ee46dc4d173/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7de6ccfdff975445ae1806fb69717903/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6ab9d3b8b343c836ef64e656d3ec1a16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/9667671f312723c6f82f677dca273fd4/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/prateek/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/fd9193c0b140c33005530782eada48ab/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.8] /Users/prateek/.gradle/caches/transforms-1/files-1.1/beta-1.2.8.aar/b73922c4158ac76ededa0b1d62b309d9/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/a7b7fbcd78bc09d5c76af3310fa5cefa/AndroidManifest.xml:22:1-33:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/775d28a9bec6e9bf75220ab749471a37/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c69521e9b01c8a00eb2dbd472f467268/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/cca2788a1dde81308c2f1e5b5658cf68/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/bba406a7724a810bd5bb10208d55d127/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/727b81ffa323745d0515188ed864ce00/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/52f5f53aff24bb940183b6cbae484c60/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/d49e0c59726ceed01516ef9707b15a1b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/3122b0cc28d3a1f989662fdedacde330/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a727f202f50f28c3b0523b88cf55a958/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/48c074f58528632a3b186b6d0ecedc5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/092b91483fa3bf565910ec20a9a64258/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c82cdada7c2cbe4b20086808a716d9d9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f209d3ada0b1f91ab8b0c3afcaabe4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/ed1ebfbdb4c9d84c095fba602e1ae9d7/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:2:1-99:12
+	package
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:2:1-99:12
+		INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:2:1-99:12
+		INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:5:22-77
+application
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:7:5-97:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/e9dd60a72272a4a158c3924990fbc703/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/e9dd60a72272a4a158c3924990fbc703/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/e0f55e864adc75e39575c74d08d38c53/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/e0f55e864adc75e39575c74d08d38c53/AndroidManifest.xml:26:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d3e5cf1c1388d53867d5fa4600ed7d82/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d3e5cf1c1388d53867d5fa4600ed7d82/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/78d774c671e8fda4550017e239a0ee4a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/78d774c671e8fda4550017e239a0ee4a/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/67ad35e3a195099b790e4a2a7309f8d4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/67ad35e3a195099b790e4a2a7309f8d4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/596297cac4ad0a1e81949e1a0be84266/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/596297cac4ad0a1e81949e1a0be84266/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5d2213959e2c5a051f9b100b1c333072/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5d2213959e2c5a051f9b100b1c333072/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/08306e866b385d62c68780c1fd60fea3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/08306e866b385d62c68780c1fd60fea3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/ed1a43bbfb9bb62c1c2f2d63fb01fb85/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/ed1a43bbfb9bb62c1c2f2d63fb01fb85/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/606790628af552d3a3e4b42ab12e267a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/606790628af552d3a3e4b42ab12e267a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/0f56aeb69ccb2f7b8c59f7feb33ff6a9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/0f56aeb69ccb2f7b8c59f7feb33ff6a9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/bef75ab00d5cc291c7d3ce8f8faed8af/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/bef75ab00d5cc291c7d3ce8f8faed8af/AndroidManifest.xml:5:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/9667671f312723c6f82f677dca273fd4/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/9667671f312723c6f82f677dca273fd4/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/prateek/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/fd9193c0b140c33005530782eada48ab/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/prateek/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/fd9193c0b140c33005530782eada48ab/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.8] /Users/prateek/.gradle/caches/transforms-1/files-1.1/beta-1.2.8.aar/b73922c4158ac76ededa0b1d62b309d9/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.8] /Users/prateek/.gradle/caches/transforms-1/files-1.1/beta-1.2.8.aar/b73922c4158ac76ededa0b1d62b309d9/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/a7b7fbcd78bc09d5c76af3310fa5cefa/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/a7b7fbcd78bc09d5c76af3310fa5cefa/AndroidManifest.xml:31:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/775d28a9bec6e9bf75220ab749471a37/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/775d28a9bec6e9bf75220ab749471a37/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c69521e9b01c8a00eb2dbd472f467268/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c69521e9b01c8a00eb2dbd472f467268/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/cca2788a1dde81308c2f1e5b5658cf68/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/cca2788a1dde81308c2f1e5b5658cf68/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/bba406a7724a810bd5bb10208d55d127/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/bba406a7724a810bd5bb10208d55d127/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/727b81ffa323745d0515188ed864ce00/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/727b81ffa323745d0515188ed864ce00/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/52f5f53aff24bb940183b6cbae484c60/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/52f5f53aff24bb940183b6cbae484c60/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/d49e0c59726ceed01516ef9707b15a1b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/d49e0c59726ceed01516ef9707b15a1b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/3122b0cc28d3a1f989662fdedacde330/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/3122b0cc28d3a1f989662fdedacde330/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/092b91483fa3bf565910ec20a9a64258/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/092b91483fa3bf565910ec20a9a64258/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/ed1ebfbdb4c9d84c095fba602e1ae9d7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/ed1ebfbdb4c9d84c095fba602e1ae9d7/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:10:9-47
+	android:icon
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:13:9-65
+activity#com.example.nibhr.myapplication.MainActivity
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:16:13-41
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.example.nibhr.myapplication.HomeActivity
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:label
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:25:13-33
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:26:13-28:29
+action#android.intent.action.VIEW
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:27:25-66
+activity#com.example.nibhr.myapplication.DocActivity
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:label
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:32:13-38
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:31:13-40
+activity#com.example.nibhr.myapplication.PassActivity
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:37:9-43:20
+	android:label
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:38:13-41
+activity#com.example.nibhr.myapplication.UserActivity
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:44:9-48:20
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:44:19-47
+activity#com.example.nibhr.myapplication.UploadActivity
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:49:9-53:20
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:49:19-49
+activity#com.example.nibhr.myapplication.SearchActivity
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:54:9-58:20
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:54:19-49
+activity#com.example.nibhr.myapplication.DeptActivity
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:59:9-65:20
+	android:label
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:61:13-40
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:60:13-41
+activity#com.example.nibhr.myapplication.HRpage
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:66:9-72:20
+	android:label
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:68:13-44
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:67:13-35
+activity#com.example.nibhr.myapplication.Fpage
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:73:9-79:20
+	android:label
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:75:13-36
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:74:13-34
+activity#com.example.nibhr.myapplication.Mpage
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:80:9-86:20
+	android:label
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:82:13-38
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:81:13-34
+activity#com.example.nibhr.myapplication.Tpage
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:87:9-93:20
+	android:label
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:89:13-38
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:88:13-34
+activity#com.example.nibhr.myapplication.UserRegisterActivity
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:94:9-58
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:94:19-55
+activity#com.example.nibhr.myapplication.ForgotPasswordActivity
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:95:9-60
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:95:19-57
+activity#com.example.nibhr.myapplication.DownloadActivity
+ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:96:9-54
+	android:name
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml:96:19-51
+uses-sdk
+INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/e9dd60a72272a4a158c3924990fbc703/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/e9dd60a72272a4a158c3924990fbc703/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/ff0e6ed40f815546d8f0f03881f5a5e9/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/ff0e6ed40f815546d8f0f03881f5a5e9/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/bf1f746ff042a29520fa7dbe69811c41/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.8.0.aar/bf1f746ff042a29520fa7dbe69811c41/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/e0f55e864adc75e39575c74d08d38c53/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/e0f55e864adc75e39575c74d08d38c53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9c3b045a8cddf2844ddd0bc1e32d3061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9c3b045a8cddf2844ddd0bc1e32d3061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f23fbae99ea949aa5add31226a223c41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f23fbae99ea949aa5add31226a223c41/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/38e7940e47c7ec18c13042a9f051c352/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/38e7940e47c7ec18c13042a9f051c352/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d3e5cf1c1388d53867d5fa4600ed7d82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/d3e5cf1c1388d53867d5fa4600ed7d82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/78d774c671e8fda4550017e239a0ee4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/78d774c671e8fda4550017e239a0ee4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/67ad35e3a195099b790e4a2a7309f8d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/67ad35e3a195099b790e4a2a7309f8d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/6187111c1884d579f6d4fea5ad234ded/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/6187111c1884d579f6d4fea5ad234ded/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/596297cac4ad0a1e81949e1a0be84266/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/596297cac4ad0a1e81949e1a0be84266/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5d2213959e2c5a051f9b100b1c333072/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/5d2213959e2c5a051f9b100b1c333072/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/2291f72b156133945bade7cb656f593e/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/2291f72b156133945bade7cb656f593e/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/08306e866b385d62c68780c1fd60fea3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/08306e866b385d62c68780c1fd60fea3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/ed1a43bbfb9bb62c1c2f2d63fb01fb85/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.8.0.aar/ed1a43bbfb9bb62c1c2f2d63fb01fb85/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/606790628af552d3a3e4b42ab12e267a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/606790628af552d3a3e4b42ab12e267a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/0f56aeb69ccb2f7b8c59f7feb33ff6a9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-11.8.0.aar/0f56aeb69ccb2f7b8c59f7feb33ff6a9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/bef75ab00d5cc291c7d3ce8f8faed8af/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-11.8.0.aar/bef75ab00d5cc291c7d3ce8f8faed8af/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/492a7009a3d5520df4d0af96f6d10d7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/492a7009a3d5520df4d0af96f6d10d7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4a34a5bed2a3c1a93389120a250d355c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4a34a5bed2a3c1a93389120a250d355c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/93111341249918d30bca51cfb4060664/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/93111341249918d30bca51cfb4060664/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/78f84774a5b33c09e4269983a23292db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/78f84774a5b33c09e4269983a23292db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9dbbb9e9b007bf54d8935e254eb95b90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9dbbb9e9b007bf54d8935e254eb95b90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3f44b459c94f95a758455d87d04a3c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3f44b459c94f95a758455d87d04a3c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d5b47bd542a2f46b3a6d0ee46dc4d173/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d5b47bd542a2f46b3a6d0ee46dc4d173/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7de6ccfdff975445ae1806fb69717903/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7de6ccfdff975445ae1806fb69717903/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6ab9d3b8b343c836ef64e656d3ec1a16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/prateek/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6ab9d3b8b343c836ef64e656d3ec1a16/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/9667671f312723c6f82f677dca273fd4/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/9667671f312723c6f82f677dca273fd4/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/prateek/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/fd9193c0b140c33005530782eada48ab/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/prateek/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/fd9193c0b140c33005530782eada48ab/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.8] /Users/prateek/.gradle/caches/transforms-1/files-1.1/beta-1.2.8.aar/b73922c4158ac76ededa0b1d62b309d9/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.8] /Users/prateek/.gradle/caches/transforms-1/files-1.1/beta-1.2.8.aar/b73922c4158ac76ededa0b1d62b309d9/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/a7b7fbcd78bc09d5c76af3310fa5cefa/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/a7b7fbcd78bc09d5c76af3310fa5cefa/AndroidManifest.xml:27:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/775d28a9bec6e9bf75220ab749471a37/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/775d28a9bec6e9bf75220ab749471a37/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c69521e9b01c8a00eb2dbd472f467268/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/c69521e9b01c8a00eb2dbd472f467268/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/cca2788a1dde81308c2f1e5b5658cf68/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/cca2788a1dde81308c2f1e5b5658cf68/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/bba406a7724a810bd5bb10208d55d127/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/bba406a7724a810bd5bb10208d55d127/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/727b81ffa323745d0515188ed864ce00/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/727b81ffa323745d0515188ed864ce00/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/52f5f53aff24bb940183b6cbae484c60/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.8.0.aar/52f5f53aff24bb940183b6cbae484c60/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/d49e0c59726ceed01516ef9707b15a1b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/d49e0c59726ceed01516ef9707b15a1b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/3122b0cc28d3a1f989662fdedacde330/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-11.8.0.aar/3122b0cc28d3a1f989662fdedacde330/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a727f202f50f28c3b0523b88cf55a958/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a727f202f50f28c3b0523b88cf55a958/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/48c074f58528632a3b186b6d0ecedc5c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/48c074f58528632a3b186b6d0ecedc5c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/092b91483fa3bf565910ec20a9a64258/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/092b91483fa3bf565910ec20a9a64258/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c82cdada7c2cbe4b20086808a716d9d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c82cdada7c2cbe4b20086808a716d9d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f209d3ada0b1f91ab8b0c3afcaabe4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f209d3ada0b1f91ab8b0c3afcaabe4e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/ed1ebfbdb4c9d84c095fba602e1ae9d7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/ed1ebfbdb4c9d84c095fba602e1ae9d7/AndroidManifest.xml:4:5-43
+INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prateek/Downloads/MyApplication3-2/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/2fb30998dc9bfffb372f0f3d53831559/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/e0f55e864adc75e39575c74d08d38c53/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/78d774c671e8fda4550017e239a0ee4a/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/78d774c671e8fda4550017e239a0ee4a/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/e0f55e864adc75e39575c74d08d38c53/AndroidManifest.xml:23:22-79
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/e0f55e864adc75e39575c74d08d38c53/AndroidManifest.xml:24:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/78d774c671e8fda4550017e239a0ee4a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.8.0.aar/78d774c671e8fda4550017e239a0ee4a/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/9667671f312723c6f82f677dca273fd4/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.3.aar/9667671f312723c6f82f677dca273fd4/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/prateek/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/fd9193c0b140c33005530782eada48ab/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] /Users/prateek/.gradle/caches/transforms-1/files-1.1/answers-1.4.2.aar/fd9193c0b140c33005530782eada48ab/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.8] /Users/prateek/.gradle/caches/transforms-1/files-1.1/beta-1.2.8.aar/b73922c4158ac76ededa0b1d62b309d9/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.8] /Users/prateek/.gradle/caches/transforms-1/files-1.1/beta-1.2.8.aar/b73922c4158ac76ededa0b1d62b309d9/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/a7b7fbcd78bc09d5c76af3310fa5cefa/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/fabric-1.4.3.aar/a7b7fbcd78bc09d5c76af3310fa5cefa/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.8.0.aar/e0f55e864adc75e39575c74d08d38c53/AndroidManifest.xml:24:22-64
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.3] /Users/prateek/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.3.aar/5be50e78fcf0498c70b29346f6776f58/AndroidManifest.xml:13:13-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/40983c015f090c45495efe405683d728/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/cc5e4a8a7e526249f0d328ced9e79c4d/AndroidManifest.xml:48:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/67ad35e3a195099b790e4a2a7309f8d4/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/67ad35e3a195099b790e4a2a7309f8d4/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/67ad35e3a195099b790e4a2a7309f8d4/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/67ad35e3a195099b790e4a2a7309f8d4/AndroidManifest.xml:24:13-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:29:9-63
+permission#com.example.nibhr.myapplication.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:32:22-76
+uses-permission#com.example.nibhr.myapplication.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.nibhr.myapplication
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:42:27-58
+category#com.example.nibhr.myapplication
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/e37d35bbbd26bcfab373ada07162c354/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/596297cac4ad0a1e81949e1a0be84266/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/596297cac4ad0a1e81949e1a0be84266/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/596297cac4ad0a1e81949e1a0be84266/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/596297cac4ad0a1e81949e1a0be84266/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/596297cac4ad0a1e81949e1a0be84266/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/08306e866b385d62c68780c1fd60fea3/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/08306e866b385d62c68780c1fd60fea3/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/prateek/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/08306e866b385d62c68780c1fd60fea3/AndroidManifest.xml:24:13-58

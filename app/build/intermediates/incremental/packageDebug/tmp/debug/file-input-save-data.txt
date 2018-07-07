@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Jul 04 12:27:32 IST 2018
+1.base=/Users/prateek/Downloads/MyApplication3-2/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/prateek/Downloads/MyApplication3-2/app/build/intermediates/transforms/dexMerger/debug/0
+1.path=crashlytics-build.properties
